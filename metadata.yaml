@@ -1,0 +1,43 @@
+_repo: Metipom-s-hostage-b-Being-a-Narrative-of-certain-surprising-adventures-befalling-one-David-Li__74148
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schuyler, Remington
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '37260'
+    url: http://www.gutenberg.org/2009/agents/37260
+    wikipedia: https://en.wikipedia.org/wiki/Remington_Schuyler
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2024-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74148'
+language: en
+pgterms:marc904: https://archive.org/details/metipomshostageb00barbiala
+pgterms:marc905: 20181128110221barbour
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'King Philip''s War, 1675-1676 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Metipom''s hostage : $b Being a Narrative of certain surprising adventures
+  befalling one David Lindall in the first year of King Philip''s War'
+url: http://www.gutenberg.org/ebooks/74148
